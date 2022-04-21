@@ -19,7 +19,7 @@ public class Main {
 		        for( int n = 0; n < arr.length; n++){
 		        	isOdd(arr[n]);
 		        }
-
+		        
 		    }
 
 		    //② 関数を定義しなさい。
